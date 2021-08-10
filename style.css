@@ -1,0 +1,14 @@
+body{
+    text-align:center;
+  }
+  #firstp{
+    word-spacing:3px;
+    font-variant:small-caps;
+    font-size:30px;
+  }
+  img{
+    width:400px;
+    height:400px;
+    border-bottom:3px solid green;
+  }
+  
